@@ -14,7 +14,7 @@ header h1 {
 
 div.post {
   background: white;
-  margin-top: 10px;
+  margin-top: 80px;
 }
 
 div.post h2,
@@ -37,5 +37,5 @@ div.post img {
 
 .post-header span {
   padding: 10px;
-margin: 20px;
+  margin: 20px;
 }
